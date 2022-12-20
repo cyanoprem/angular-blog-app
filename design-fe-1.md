@@ -1,0 +1,31 @@
+# Components List
+
+## Main Pages
+
+1. Home Component
+
+2. Single Category Component
+
+3. Single Post Component
+
+4. Terms and Conditions Component
+
+5. About Component
+
+6. Contact Component
+
+## Common Areas
+
+7. Header Component
+
+8. Category Navbar Component
+
+9. Footer Component
+
+## Separate Components
+
+10. Subscription Form Component
+
+11. Comment Form Component
+
+12. Comment List Component
